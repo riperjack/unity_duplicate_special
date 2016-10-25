@@ -4,5 +4,5 @@ A tiny Unity Editor script which duplicates objects in a fashion similar to Blen
 
 Place it in your Unity project under Assets/Editor.
 
-![My image](https://github.com/marcin-se/unity_array/blob/master/duplicate_special_demo.gif) 	
+![My image](https://github.com/marcin-se/unity_duplicate_special/blob/master/duplicate_special_demo.gif) 	
 
